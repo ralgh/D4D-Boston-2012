@@ -163,13 +163,63 @@ rm 141, 1:30pm - 2:20pm
 ### Improving the Content Editing Experience in Drupal with Spark
 rm 155, 2:30pm - 3:20pm
 
+- by Kevin O'Leary
+- New Drupal distribution
+- The vision of Spark is the create a Drupal distribution that meets or
+  exceeds the content authoring experience found in the bestjopen source
+  and proprietary CMSs
+- Competition
+    - Wordpress
+    - CQ5
+    - site.com - Salesforce
+    - sitecore
+    - squarespace - small to mid-size business but very easy to use.
+- Who is working on Spark?
+    - Dries
+    - Angie
+    - Gabor Hojtsy
+    - Jesse Beach
+    - Preston So
+    - Kevin O'Leary
+- Target Audience
+    - Content creators
+    - All Acquia distribution leads
+    - Any Drupal 7 distribution developer
+    - Any site builder
+- * Still in very active development at this time
+- Features Roadmap
+    - Content Creation & Editing (only feature done to date)
+    - Page & Content Layouts
+    - Dashboards & Workflow
+    - Mobile Authoring
+    - Media Management
+    - Content Staging
+    - Localization
+- http://drupal.org/project/spark
+- http://drupal.org/project/edit
+- http://drupal.org/project/ember
+- New spark admin theme
+- Working with other initiatives
+    - WSCCI
+    - Scotch
+    - HTML5
+    - LSD
+    - D8 initiative
+    - D8 Media
+    - D8 multiligual
+- How to help
+    - Test
+    - Take usability test
+    - Give feeback
+    - help with tickets
+- 
+
 ------------------------------------------------------------------------------
 Break, 3:30pm - 4:00pm
 ------------------------------------------------------------------------------
 
 ### Scalable Stylesheets - Themeing with Modular CSS
 rm 155, 4:00pm - 4:50pm
-
 
 ### 
 
