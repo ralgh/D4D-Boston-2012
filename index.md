@@ -1,7 +1,12 @@
 # D4D Boston 2012
 
-## Session Notes
-Twitter Hashtag: #d4d
+## General Session Notes
+- Twitter Hashtag: #d4dboston
+- Sponsors
+    - Redfin
+    - Isovera
+    - Aquia Dev Cloud
+    - OHO Interactive
 
 
 
@@ -108,13 +113,10 @@ Group Photo, 11:00am - 11:30am
 ### jQuery Demystified
 rm 155, 11:30am - 12:20pm
 
-- 
-
-
-
-
-
-
+- Patrik Corbett(@pcorbett), Redfin Solutions LLC
+- Introduction to jQuery.
+- Sat in for intro then skipped out. Nothing else of interest this time 
+  period.
 
 ------------------------------------------------------------------------------
 Lunch, 12:20pm - 1:30pm
@@ -123,7 +125,40 @@ Lunch, 12:20pm - 1:30pm
 ### Designing and Implementing Beautiful, Flexible Interfaces
 rm 141, 1:30pm - 2:20pm
 
-- 
+- Ken Woodworth(@kenwoodworth), Aten Design Group(@atendesign)
+- http://bokardo.com/principles-of-user-interface-design
+- Uses Photoshop to define and art direction
+- Style Guide
+    - Reference to define the look and feel of different elements of a site.
+    - Sets you up for more modular and scalable CSS
+    - Create a cohesive visual brand
+    - gifffle (dribbble mock)
+    - see slides online for gifffle style guide sample
+    - Components of style guide:
+        - Colors
+        - text
+        - form
+        - misc
+- Photoshop features to understand in order to create style guide:
+    -  Layers Panel
+    -  Learn keyboard shortcuts: e.g. 
+        -  Selecting Layers: option + [ or ]
+        -  Move Layers: cm + [ or ]
+        -  Copy Merged: cmd + shift + c
+    -  Vector and shape layers
+    -  Smart Objects
+    -  Blend modes
+    -  Patterns
+        -  "Subtle Patterns" website
+    - Use overlay to create gradients
+    - SASS Tequniques
+        - Use preprocessors() SASS/Less - Leader as far as features,
+          community.
+        -  * {
+                @include box-sizing(border-width);
+            }
+        - "Symbol Set" - Semantic icons
+        - Blen Modes
 
 ### Improving the Content Editing Experience in Drupal with Spark
 rm 155, 2:30pm - 3:20pm
@@ -137,3 +172,18 @@ rm 155, 4:00pm - 4:50pm
 
 
 ### 
+
+
+
+
+## Misc
+- Voip Drupal dot org
+    - Assign phone extensions to drupal users
+    - http://voipdrupal.org/user voiptest/voiptest
+    - http://drupal.org/project/voipdrupal/
+    - audio blog
+- Seth Cohn -  NH Legislator, Cantebury
+   HB418 - NH Open Source Legisltion 
+
+
+
